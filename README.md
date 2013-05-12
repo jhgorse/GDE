@@ -9,4 +9,4 @@ Inspired by National Instrument's LabVIEW, i.e. the Virtual Instrumentation Elec
   * Immediate and unequivocal feedback to build user's intuition
   * [Graphical front-end](http://www.ni.com/white-paper/7537/en) which provides powerful visual metaphors consistent with prior knowledge and expectations
 
-For more information, check out https://github.com/jhgorse/GDE/wiki/Introduction
+For more information, check out https://github.com/jhgorse/GDE/wiki/Introduction-to-GDE
