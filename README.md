@@ -1,5 +1,4 @@
 # GDE
-===
 
 **a Good data-flow Development Environment**
 
